@@ -100,4 +100,7 @@ p {
   .email-link {
     font-size: 24px;
   }
+  p {
+    text-align: left;
+  }
 }
